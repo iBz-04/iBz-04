@@ -2,9 +2,9 @@
 <h3 align="center">A software developer well versed in Algorithms</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
-- 👨‍💻 My portfolio [https://ibzdev.site/](https://ibzdev.site/)
 
-- 📫 Get in Touch **ibz.04dev@gmail.com**
+- My portfolio [https://ibzdev.site/](https://ibzdev.site/)
+- Get in Touch **ibz.04dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
