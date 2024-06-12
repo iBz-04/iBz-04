@@ -1,4 +1,4 @@
-<h2 align="left">Glad you made it here! I'm Ibrahim</h2>
+<h2 align="left">Glad you made it here!</h2>
 
 ###
 
