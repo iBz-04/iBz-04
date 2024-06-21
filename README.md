@@ -27,7 +27,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/ib.z_04?igsh=MW42b21yMmp0ZnFqZw%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=InstaGram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
