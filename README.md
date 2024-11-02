@@ -1,6 +1,17 @@
 <h2 align="left">Glad you made it here!</h2>
 
+
+![City Theme](https://github.com/muhammadtalhasami/muhammadtalhasami/blob/main/Images/citytheme.gif?raw=true)
+
+[![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+
 ###
+<a href="https://github.com/muhammadtalhasami">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="1000%" height="2px"  />
+</a>
+<br><br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iBz-04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&token=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" height="150" alt="stats graph"  />
@@ -27,6 +38,11 @@
 
 ###
 
+<a href="https://github.com/muhammadtalhasami">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="1000%" height="2px"  />
+</a>
+<br><br>
+
 <div align="center">
 <!--   <a href="https://www.instagram.com/ib.z_04?igsh=MW42b21yMmp0ZnFqZw%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=InstaGram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
@@ -43,6 +59,10 @@
 </div>
 
 ###
+
+
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
 <br clear="both">
 
