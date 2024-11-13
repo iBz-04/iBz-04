@@ -3,9 +3,6 @@
 
 ![City Theme](https://github.com/muhammadtalhasami/muhammadtalhasami/blob/main/Images/citytheme.gif?raw=true)
 
-[![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
 
 ###
 <a href="https://github.com/muhammadtalhasami">
