@@ -1,6 +1,11 @@
 <h2 align="left">Glad you made it here!</h2>
 
 ###
+<div align="center">
+<a href='https://omniverse.com.im' target="_blank"><img alt='apacheecharts' src='https://img.shields.io/badge/Omniverse-100000?style=flat&logo=apacheecharts&logoColor=white&labelColor=000000&color=A38D11'/></a>
+<a href='https://www.omnibot.com.co/' target="_blank"><img alt='dependabot' src='https://img.shields.io/badge/Omnibot-100000?style=flat&logo=dependabot&logoColor=white&labelColor=000000&color=39E401'/></a>
+</div>
+
 ---
 
 <div align="center">
