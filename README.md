@@ -1,4 +1,4 @@
-<h2 align="center"> hoş gelmedin </h2>
+<h2 align="center"> Hoş gelmedin </h2>
 
 ###
 
