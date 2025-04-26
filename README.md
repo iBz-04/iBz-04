@@ -1,18 +1,18 @@
-<h2 align="center"> Hoş gelmedin </h2>
+<h2 align="center"> I like thinking, machines and thinking machines </h2>
 
 ###
 
 <div align="center">
-<p>I like thinking, machines and thinking machines</p>
+<p>Engineering Student @YTU</p>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <p>Check out these bad boys</p>
 <a href='https://omniverse.com.im' target="_blank"><img alt='apacheecharts' src='https://img.shields.io/badge/Omniverse-100000?style=flat&logo=apacheecharts&logoColor=white&labelColor=000000&color=A38D11'/></a>
 <a href='https://www.omnibot.com.co/' target="_blank"><img alt='dependabot' src='https://img.shields.io/badge/Omnibot-100000?style=flat&logo=dependabot&logoColor=white&labelColor=000000&color=39E401'/></a>
 </div>
 
-###
+### -->
 
 
 
